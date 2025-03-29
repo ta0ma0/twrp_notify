@@ -1,0 +1,12 @@
+[
+    "Realme 3 (spartan)",
+    "Realme 6/7 (RMX2001/RMX2151)",
+    "Realme 8 5G / Narzo 30 5G (RMX3241/RMX3242)",
+    "Realme 8i / Narzo 50 (spaced)",
+    "Realme C1 (RMX1811)",
+    "Realme C2 (RMX1941)",
+    "Realme X2 (RMX1991/RMX1992/RMX1993)",
+    "Realme X2 Pro (RMX1931)",
+    "Realme X7 Max (RMX3031)",
+    "Realme XT (RMX1921)"
+]
